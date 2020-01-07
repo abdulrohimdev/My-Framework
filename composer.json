@@ -1,5 +1,5 @@
 {
-    "name":"myframeworks/oim",
+    "name":"oim/oimframeworks",
     "description": "Native Frameworks",
     "require": {
         "bramus/router": "~1.4",
