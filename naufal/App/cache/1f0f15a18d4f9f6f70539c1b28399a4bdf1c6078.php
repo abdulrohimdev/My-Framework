@@ -1,0 +1,1 @@
+<?php echo e($hello); ?><?php /**PATH C:\xampp\htdocs\frameworknative\naufal\App\Modules\Blog\Views/tests.blade.php ENDPATH**/ ?>

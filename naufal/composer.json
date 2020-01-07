@@ -1,0 +1,13 @@
+{
+    "name":"myframeworks/oim",
+    "description": "Native Frameworks",
+    "require": {
+        "bramus/router": "~1.4",
+        "jenssegers/blade": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
